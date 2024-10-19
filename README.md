@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🕹 I'm currently working on whatever I want
+- 🧩 I'm learning Python
 <!--
 **onebrittwonder/onebrittwonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
