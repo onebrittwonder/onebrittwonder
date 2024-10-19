@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👾 Greetings 👾
 - 🕹 I'm currently working on whatever I want
 - 🧩 I'm learning Python, game development
 <!--
